@@ -1,0 +1,76 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "surname": "Mirch",
+      "name": "Anya",
+      "otch": "Grigorjevna",
+      "phone": "89777655253",
+      "best": false
+    },
+    {
+      "surname": "Архипов",
+      "name": "Андрей",
+      "otch": "Игоревич",
+      "phone": "23422342223",
+      "best": false,
+      "id": 2
+    },
+    {
+      "surname": "Семирханова",
+      "name": "Римма",
+      "otch": "Мидхатовна",
+      "phone": "34554334534",
+      "best": true,
+      "id": 3
+    },
+    {
+      "surname": "Алексеев",
+      "name": "Игорь",
+      "otch": "Иванович",
+      "phone": "23443223423",
+      "best": false,
+      "id": 4
+    },
+    {
+      "surname": "Джеджея",
+      "name": "Лея",
+      "otch": "Лукинична",
+      "phone": "89778372873",
+      "best": false,
+      "id": 5
+    },
+    {
+      "surname": "Костикова",
+      "name": "Мария",
+      "otch": "Георгиевна",
+      "phone": "2324324234",
+      "best": false,
+      "id": 6
+    },
+    {
+      "surname": "Зыкова",
+      "name": "Зоя",
+      "otch": "Евгеньевна",
+      "phone": "1232112312123",
+      "best": false,
+      "id": 7
+    },
+    {
+      "surname": "Зыкова",
+      "name": "Наталья",
+      "otch": "Николаевна",
+      "phone": "8689483848",
+      "best": false,
+      "id": 8
+    },
+    {
+      "surname": "Иванова",
+      "name": "Мария",
+      "otch": "Ивановна",
+      "phone": "23424",
+      "best": true,
+      "id": 9
+    }
+  ]
+}
